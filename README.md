@@ -9,7 +9,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)<br><br>
 
 ## 🛠️ Ferramentas e Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=vscode,mysql,spring,git,github)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=vscode,spring,git,github)](https://skillicons.dev)<br><br>
 
 ## 📫 Contato
 
