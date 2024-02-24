@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Líndson
+- 👀 I’m interested in Back-end development with Java
+- 🌱 I’m currently learning Spring Boot
