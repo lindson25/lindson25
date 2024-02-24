@@ -13,7 +13,7 @@
 
 ## 📫 Contato
 
-[![Gmail Badge](https://img.shields.io/badge/-{lindson_lucas@live.com}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{lindson_lucas@live.com})](mailto:{lindson_lucas@live.com})
+[![Gmail Badge](https://img.shields.io/badge/-Email-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{lindson_lucas@live.com})](mailto:{lindson_lucas@live.com})
 [![Linkedin: Líndson](https://img.shields.io/badge/-lindsonsouza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lindson-souza)](https://www.linkedin.com/in/lindson-souza)<br><br>
 
 
