@@ -17,4 +17,4 @@
 [![Linkedin: Líndson](https://img.shields.io/badge/-lindsonsouza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lindson-souza)](https://www.linkedin.com/in/lindson-souza)<br><br>
 
 
-![lindson25 GitHub stats](https://github-readme-stats.vercel.app/api?username=lindson25&show_icons=true&theme=radical)<br><br>
+![lindson25 GitHub stats](https://github-readme-stats.vercel.app/api?username=lindson25&show_icons=true&theme=chartreuse-dark)<br><br>
