@@ -5,11 +5,9 @@
 </p><br><br>
 
 
-## 🚀 Linguagens de Programação e Frameworks
-[![My Skills](https://skillicons.dev/icons?i=java,spring)](https://skillicons.dev)<br><br>
+## 🚀 Conhecimentos
+[![My Skills](https://skillicons.dev/icons?i=java,spring,vscode,mysql,git,github,idea,maven,eclipse,postman)](https://skillicons.dev)<br><br>
 
-## 🛠️ Ferramentas e Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=vscode,mysql,git,github)](https://skillicons.dev)<br><br>
 
 ## 📫 Contato
 
