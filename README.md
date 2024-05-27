@@ -17,7 +17,3 @@
 
 ![lindson25 GitHub stats](https://github-readme-stats.vercel.app/api?username=lindson25&show_icons=true&theme=chartreuse-dark)<br><br>
 
-<div align="center">
-<br><p align="centre"><b>VISITAS</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{lindson25}/count.svg" /></p> 
-<br></div>
